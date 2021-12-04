@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Toguko&#39;s Meditations</title>
+    <link>https://toguko.com/</link>
+    <description>Recent content on Toguko&#39;s Meditations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Dec 2021 01:12:00 -0500</lastBuildDate><atom:link href="https://toguko.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>List projects that I&#39;m currently involved</title>
+      <link>https://toguko.com/projects/projects/</link>
+      <pubDate>Thu, 02 Dec 2021 01:12:00 -0500</pubDate>
+      
+      <guid>https://toguko.com/projects/projects/</guid>
+      <description>IT projects that I&amp;#39;m involved with and creating by myself.</description>
+    </item>
+    
+    <item>
+      <title>Project X</title>
+      <link>https://toguko.com/projects/project1/</link>
+      <pubDate>Thu, 02 Dec 2021 01:12:00 -0500</pubDate>
+      
+      <guid>https://toguko.com/projects/project1/</guid>
+      <description>Project X for the creation of Canon X.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://toguko.com/about/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://toguko.com/about/</guid>
+      <description>Hello everyone 👋
+My name is Rafael Dias. I&amp;rsquo;m from Rio de Janeiro, Brazil and living in Toronto now after I immigrate to Canada.
+I have been going as &amp;ldquo;Toguko&amp;rdquo; since my days, mostly nights, on a dial internet, talking on IRC channels, trying to learn about Back Orifice and SubSeven backdoors and playing CS 1.0 Warcraft III battles on LAN Houses in my youth.
+I have been involved in IT for more than 20 years, first as an IT Support Leader in a University.</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo World</title>
+      <link>https://toguko.com/posts/helloworld/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://toguko.com/posts/helloworld/</guid>
+      <description>Hello world of Papermod with Hugo.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
