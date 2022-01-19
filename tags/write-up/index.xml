@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Toguko&#39;s Meditations</title>
-    <link>https://toguko.com/posts/</link>
-    <description>Recent content in Posts on Toguko&#39;s Meditations</description>
+    <title>write-up on Toguko&#39;s Meditations</title>
+    <link>https://toguko.com/tags/write-up/</link>
+    <description>Recent content in write-up on Toguko&#39;s Meditations</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://toguko.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://toguko.com/tags/write-up/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Write-up - TryHackMe Room DogCat</title>
       <link>https://toguko.com/posts/thm_dogcat_writeup/</link>
@@ -13,15 +13,6 @@
       
       <guid>https://toguko.com/posts/thm_dogcat_writeup/</guid>
       <description>Capture four flags from the box with LFI vulnerability doing escalation privileges, and docker escape to the root machine.</description>
-    </item>
-    
-    <item>
-      <title>Hello Hugo World</title>
-      <link>https://toguko.com/posts/helloworld/</link>
-      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://toguko.com/posts/helloworld/</guid>
-      <description>Hello world of Papermod with Hugo.</description>
     </item>
     
   </channel>

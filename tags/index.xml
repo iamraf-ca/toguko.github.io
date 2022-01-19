@@ -5,7 +5,61 @@
     <link>https://toguko.com/tags/</link>
     <description>Recent content in Tags on Toguko&#39;s Meditations</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Dec 2021 01:12:00 -0500</lastBuildDate><atom:link href="https://toguko.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://toguko.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>command_injection</title>
+      <link>https://toguko.com/tags/command_injection/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://toguko.com/tags/command_injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker_scape</title>
+      <link>https://toguko.com/tags/docker_scape/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://toguko.com/tags/docker_scape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LFI</title>
+      <link>https://toguko.com/tags/lfi/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://toguko.com/tags/lfi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>log_poisoning</title>
+      <link>https://toguko.com/tags/log_poisoning/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://toguko.com/tags/log_poisoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TryHackMe</title>
+      <link>https://toguko.com/tags/tryhackme/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://toguko.com/tags/tryhackme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>write-up</title>
+      <link>https://toguko.com/tags/write-up/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://toguko.com/tags/write-up/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>projects</title>
       <link>https://toguko.com/tags/projects/</link>

@@ -5,7 +5,7 @@
     <link>https://toguko.com/</link>
     <description>Recent content on Toguko&#39;s Meditations</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Dec 2021 01:12:00 -0500</lastBuildDate><atom:link href="https://toguko.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://toguko.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>List projects that I&#39;m currently involved</title>
       <link>https://toguko.com/projects/projects/</link>
@@ -22,6 +22,15 @@
       
       <guid>https://toguko.com/projects/project1/</guid>
       <description>Project X for the creation of Canon X.</description>
+    </item>
+    
+    <item>
+      <title>Write-up - TryHackMe Room DogCat</title>
+      <link>https://toguko.com/posts/thm_dogcat_writeup/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://toguko.com/posts/thm_dogcat_writeup/</guid>
+      <description>Capture four flags from the box with LFI vulnerability doing escalation privileges, and docker escape to the root machine.</description>
     </item>
     
     <item>

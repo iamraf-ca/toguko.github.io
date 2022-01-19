@@ -8,6 +8,36 @@
     <loc>https://toguko.com/projects/project1/</loc>
     <lastmod>2021-12-02T01:12:00-05:00</lastmod>
   </url><url>
+    <loc>https://toguko.com/tags/command_injection/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toguko.com/tags/docker_scape/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toguko.com/tags/lfi/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toguko.com/tags/log_poisoning/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toguko.com/posts/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toguko.com/tags/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toguko.com/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toguko.com/tags/tryhackme/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toguko.com/tags/write-up/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toguko.com/posts/thm_dogcat_writeup/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://toguko.com/projects/</loc>
     <lastmod>2021-12-02T01:12:00-05:00</lastmod>
   </url><url>
@@ -15,12 +45,6 @@
     <lastmod>2021-12-02T01:12:00-05:00</lastmod>
   </url><url>
     <loc>https://toguko.com/tags/projectx/</loc>
-    <lastmod>2021-12-02T01:12:00-05:00</lastmod>
-  </url><url>
-    <loc>https://toguko.com/tags/</loc>
-    <lastmod>2021-12-02T01:12:00-05:00</lastmod>
-  </url><url>
-    <loc>https://toguko.com/</loc>
     <lastmod>2021-12-02T01:12:00-05:00</lastmod>
   </url><url>
     <loc>https://toguko.com/about/</loc>
@@ -33,9 +57,6 @@
     <lastmod>2021-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://toguko.com/posts/helloworld/</loc>
-    <lastmod>2021-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://toguko.com/posts/</loc>
     <lastmod>2021-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://toguko.com/archives/</loc>
